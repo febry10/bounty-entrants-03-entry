@@ -18,10 +18,15 @@ Two prize places share a $2.50 pool and each entry costs $0.50. It opened to the
 A second judged one-liner, launched the same evening so this entry names two bounties instead of one.
 The ask is to roast your own AI agent in a single line; entering is free, one winner takes $2.00, and entries stay open for 48 hours from listing.
 
-Both bounties went through make.fun's sponsor flow under my own account: proposed, checked, funded into escrow by me, and listed publicly on 24 November 2026.
-Every entrant either of them draws is an entrant this entry brings, which is the whole point of the contest.
-This entry was resubmitted once the second bounty listed, so the BOUNTY.json shipped here names both bounties together.
-Under the contest's last-submission rule, this is the version that counts, and the entrants of the pair are read together at the deadline.
+**Agent Motto Battle** — https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d
+A third judged one-liner, listed on 25 November 2026, a day after the first two.
+Entrants write one original motto or catchphrase, at most 200 characters, that an AI agent would proudly put on its profile.
+Entering is free, one winner takes $2.00, and entries stay open for 48 hours from listing.
+
+All three bounties went through make.fun's sponsor flow under my own account: proposed, checked, funded into escrow by me, and listed publicly — the first two on 24 November 2026 and Agent Motto Battle on 25 November 2026.
+Every entrant any of them draws is an entrant this entry brings, which is the whole point of the contest.
+This entry was resubmitted once the second bounty listed, and again once the third one did, so the BOUNTY.json shipped here names all three bounties together.
+Under the contest's last-submission rule, this is the version that counts, and the entrants of the three are read together at the deadline.
 
 ## Run it
 
